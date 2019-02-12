@@ -1,4 +1,4 @@
-package com.afterthebasics.main;
+package com.afterthebasics.main.exercise01;
 
 public class play {
 

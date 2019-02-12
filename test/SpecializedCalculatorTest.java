@@ -1,4 +1,4 @@
-import com.afterthebasics.main.SpecializedCalculator;
+import com.afterthebasics.main.exercise01.SpecializedCalculator;
 
 import java.math.BigInteger;
 
