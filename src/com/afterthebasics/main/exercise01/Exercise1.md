@@ -1,5 +1,5 @@
 
-##Additive Persistence
+## Additive Persistence
 
 1. What are the two arguments for the function?
 
@@ -25,7 +25,7 @@ calculating the Additive Persistence number. One trick is to try to predict the 
 it is executed.
 
 
-##Resources
+## Resources
 
 - [Additive Persistence](http://mathworld.wolfram.com/AdditivePersistence.html)
 - [Using the IntelliJ Debugger](https://www.youtube.com/watch?v=w7W9kDgHP2k) (please conduct own search if using other IDE)
